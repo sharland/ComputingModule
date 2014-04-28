@@ -10,3 +10,37 @@ Therefore if a teacher is new to Computing and struggling to find decent modules
 
 Please submit change ideas to the structure!  I would like to tailor it as much as possible.  There is also an ideas document here for future development of this structure.
 
+##Module Structure
+
+###Title
+
+###Target year group or age
+
+###Purpose of Module
+
+###Knowledge and Skills
+
+###Cross-Curricula links
+
+###Progression from this module
+
+###Example work
+
+###Glossary
+
+###Self-assessment questions
+
+###Theory Questions
+
+###Homework
+
+###Work-criteria questions
+
+###DfE Computing Curriculum mapping
+
+###CaS Progression Pathways mapping
+
+###Lessons
+
+###Resources
+
