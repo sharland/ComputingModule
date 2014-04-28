@@ -14,6 +14,8 @@ Please submit change ideas to the structure!  I would like to tailor it as much 
 
 This structure is obviously not set in stone but following as much of it as possible will enable other teachers to pick up what they need to do.
 
+An empty template is also [available here](https://github.com/sharland/ComputingModule/blob/master/module_template.md)
+
 ###Title
 
 Include a simple title.
