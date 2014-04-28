@@ -76,6 +76,8 @@ How does this module map to the [CaS Progression Pathways](http://community.comp
 
 Use the separate lesson template to design each of the lessons in the module and then link to them from here.
 
+A lesson template is available [here](https://github.com/sharland/ComputingModule/blob/master/lesson_template.md)
+
 ###Resources
 
 List all of the website resources and other software and hardware which pupils might need.
