@@ -8,7 +8,7 @@ This means that theoretically different teachers at different schools can work o
 
 Therefore if a teacher is new to Computing and struggling to find decent modules or if a teacher wants to see if a topic is already covered they can check CaS and download a module or write something else to fill a gap.
 
-Please submit change ideas to the structure!  I would like to tailor it as much as possible.  There is also an ideas document here for future development of this structure.
+Please submit change ideas to the structure!  I would like to tailor it as much as possible.  There is also an ideas document [here](https://github.com/sharland/ComputingModule/blob/master/dev_ideas.md) for future development of this structure.
 
 ##Module Structure
 
