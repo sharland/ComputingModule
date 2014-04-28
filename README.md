@@ -64,11 +64,11 @@ If you wish to set homework for this module either include a general description
 
 ###DfE Computing Curriculum mapping
 
-How does this module map to the (DfE Computing Curriculum)[https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study]?
+How does this module map to the [DfE Computing Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)?
 
 ###CaS Progression Pathways mapping
 
-How does this module map to the (CaS Progression Pathways)[http://community.computingatschool.org.uk/resources/1692] developed by Mark Dorling?
+How does this module map to the [CaS Progression Pathways](http://community.computingatschool.org.uk/resources/1692) developed by Mark Dorling?
 
 ###Lessons
 
