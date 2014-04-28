@@ -1,4 +1,4 @@
-# Computing Module Structure README file
+# Computing Module Structure README
 
 ##Introduction
 
