@@ -10,6 +10,10 @@ Therefore if a teacher is new to Computing and struggling to find decent modules
 
 Please submit change ideas to the structure!  I would like to tailor it as much as possible.  There is also an ideas document [here](https://github.com/sharland/ComputingModule/blob/master/dev_ideas.md) for future development of this structure.
 
+##How to use
+
+I suggest downloading the module structure as a zip and using it as part of your own folder structure or repositories.
+
 ##Module Structure
 
 This structure is obviously not set in stone but following as much of it as possible will enable other teachers to pick up what they need to do.
