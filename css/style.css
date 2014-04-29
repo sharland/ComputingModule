@@ -144,7 +144,7 @@ Home sections
 }
 
 .bg-gray {
-	background: #f8f8f8;
+	background: #dfdfdf;
 }
 
 .bg-dark {
@@ -201,7 +201,7 @@ Intro
 	z-index:1000;
 }
 #intro .brand {
-	margin-top: 40px;
+	margin-top: 20px;
 }
 .intro-text h1 a {
 	color:#fff;
