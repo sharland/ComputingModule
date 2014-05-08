@@ -106,6 +106,13 @@ margin, padding
 }
 
 
+/* ================================
+Additional styles
+================================= */
+
+.whiteheading {
+	color:#FFFFFF;
+}
 
 /* ================================
 Home sections
@@ -169,10 +176,10 @@ Spacer
 ============================= */
 
 #spacer1{	
-	background-image: url(../img/spacer/raspberrypi.JPG);
+	background-image: url(../img/spacer/spacer1.JPG);
 }
 #spacer2{	
-	background-image: url(../img/spacer/2.jpg);
+	background-image: url(../img/spacer/spacer2.JPG);
 }
 
 
