@@ -177,9 +177,18 @@ Spacer
 
 #spacer1{	
 	background-image: url(../img/spacer/spacer1.JPG);
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+
 }
 #spacer2{	
 	background-image: url(../img/spacer/spacer2.JPG);
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 }
 
 
