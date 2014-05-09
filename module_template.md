@@ -28,7 +28,9 @@ Include a simple title.
 
 ###Glossary
 
-
+|Term		|Definition			|
+|-----------|-------------------|
+|			|					|
 
 ###Self-assessment questions
 
