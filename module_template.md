@@ -30,7 +30,7 @@ Include a simple title.
 
 |Term		|Definition			|
 |-----------|-------------------|
-|			|					|
+|Just add pipes| Does not have to look pretty|
 
 ###Self-assessment questions
 
