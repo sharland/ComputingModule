@@ -14,6 +14,11 @@ Please submit change ideas to the structure!  I would like to tailor it as much 
 
 I suggest downloading the module structure as a zip and using it as part of your own folder structure or repositories.
 
+##License
+
+This module template is licensed under [CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/) v4
+![CC-BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
 ##Module Structure
 
 This structure is obviously not set in stone but following as much of it as possible will enable other teachers to pick up what they need to do.
