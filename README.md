@@ -37,6 +37,10 @@ Decide on who you think who this module would best be aimed at whether it's an a
 
 Give an introductory description of the purpose of the module.  This should describe the broad aims and objectives of this module.
 
+###Prior Learning
+
+Include what prior learning you feel that pupils might need before 
+
 ###Knowledge and Skills
 
 In this section describe what sort of knowledge and skills pupils are going to cover.  This will hopefully give pupils an ida of what they should be acquiring by the end of the module.
