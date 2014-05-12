@@ -2,8 +2,22 @@
 
 In order to quickly work with reveal.js in creating HTML slide-decks you will need to be familiar with HTML firstly but in order to make it as simple as possible I have included below some HTML slide templates.  All you will need to do is within the `<div class="slides">` section copy in one of the following slide templates including all the tags and example content and then replace the content with your own.
 
-- [Title Slide](https://github.com/sharland/ComputingModule/blob/master/Lessons/revealSlideTemplates.md#title-slide)
+##Contents
+- [Title Slide](#title-slide)
 - [Simple slide](#simple-slide)
+- [Nested Vertical Slides](#nested-vertical-slides)
+- [Unordered List](#unordered-list)
+- [Ordered List](#ordered-list)
+- [Slide with own background colour](#slide-with-own-background-colour)
+- [Slide with image background](#slide-with-image-background)
+- [Slide with repeating image background](#slide-with-repeating-image-background)
+- [Code block](#code-block)
+- [Another code block example](#another-code-block-example)
+- [Putting quotes in](#putting-quotes-in)
+- [Linking between slides](#linking-between-slides)
+- [Simple content animation](#simple-content-animation)
+- [Fancier content animation](#fancier-content-animation)
+- [Example image with link](#example-image-with-link)
 
 ##Title Slide
 ```html
@@ -15,7 +29,7 @@ In order to quickly work with reveal.js in creating HTML slide-decks you will ne
 					</p>
 			</section>
 ```
-
+[back to contents](#contents)
 ##Simple Slide
 Showing the use of speaker notes using `<aside class="notes">`
 ```html
@@ -26,7 +40,7 @@ Showing the use of speaker notes using `<aside class="notes">`
 				<aside class="notes">Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).</aside>
 				</section>
 ```
-
+[back to contents](#contents)
 ##Nested vertical slides
 Note how `<section>` is nested to provide the vertical slides. Images have also been inserted.
 ```html
@@ -61,6 +75,7 @@ Note how `<section>` is nested to provide the vertical slides. Images have also 
 					</section>
 				</section>
 ```
+[back to contents](#contents)
 ##Unordered list
 ```html
 				<section>
@@ -73,7 +88,7 @@ Note how `<section>` is nested to provide the vertical slides. Images have also 
 					</ul>
 				</section>
 ```
-
+[back to contents](#contents)
 ##Ordered list
 ```html
 				<section>
@@ -85,7 +100,7 @@ Note how `<section>` is nested to provide the vertical slides. Images have also 
 					</ol>
 				</section>
 ```html
-
+[back to contents](#contents)
 ##Slide with own background colour
 ```html
 					<section data-background="#007777">
@@ -98,7 +113,7 @@ Note how `<section>` is nested to provide the vertical slides. Images have also 
 						</a>
 					</section>
 ```
-
+[back to contents](#contents)
 ##Slide with image background
 ```html
 					<section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png">
@@ -114,6 +129,7 @@ Note how `<section>` is nested to provide the vertical slides. Images have also 
 						<pre><code style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
 					</section>
 ```
+[back to contents](#contents)
 ##Code block
 ```html
 					<section>
@@ -121,7 +137,7 @@ Note how `<section>` is nested to provide the vertical slides. Images have also 
 						<pre><code style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
 					</section>
 ```
-
+[back to contents](#contents)
 ##Another code block example
 ```html
 				<section>
@@ -145,7 +161,7 @@ function linkify( selector ) {
 					<p>Courtesy of <a href="http://softwaremaniacs.org/soft/highlight/en/description/">highlight.js</a>.</p>
 				</section>
 ```
-
+[back to contents](#contents)
 ##Putting quotes in
 ```html
 				<section>
@@ -160,7 +176,7 @@ function linkify( selector ) {
 					</blockquote>
 				</section>
 ```
-
+[back to contents](#contents)
 ##Linking between slides
 ```html
 				<section>
@@ -171,7 +187,7 @@ function linkify( selector ) {
 					</p>
 				</section>
 ```
-
+[back to contents](#contents)
 ##Simple content animation
 ```html
 				<section>
@@ -190,7 +206,7 @@ function linkify( selector ) {
 						</aside>
 					</section>
 ```
-
+[back to contents](#contents)
 ##Fancier content animation
 ```html
 					<section>
@@ -207,6 +223,7 @@ function linkify( selector ) {
 						<p class="fragment highlight-current-blue">highlight-current-blue</p>
 					</section>
 ```
+[back to contents](#contents)
 ##Example image with link
 ```html
 				<section>
@@ -216,6 +233,6 @@ function linkify( selector ) {
 					</a>
 				</section>
 ```
-
+[back to contents](#contents)
 
 
