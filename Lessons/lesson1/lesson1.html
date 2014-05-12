@@ -14,11 +14,11 @@
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<link rel="stylesheet" href="revealFiles/css/reveal.min.css">
-		<link rel="stylesheet" href="revealFiles/css/theme/default.css" id="theme">
+		<link rel="stylesheet" href="../revealFiles/css/reveal.min.css">
+		<link rel="stylesheet" href="../revealFiles/css/theme/default.css" id="theme">
 
 		<!-- For syntax highlighting -->
-		<link rel="stylesheet" href="revealFiles/lib/css/zenburn.css">
+		<link rel="stylesheet" href="../revealFiles/lib/css/zenburn.css">
 
 		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
 		<script>
@@ -26,7 +26,7 @@
 				var link = document.createElement( 'link' );
 				link.rel = 'stylesheet';
 				link.type = 'text/css';
-				link.href = 'revealFiles/css/print/pdf.css';
+				link.href = '../revealFiles/css/print/pdf.css';
 				document.getElementsByTagName( 'head' )[0].appendChild( link );
 			}
 		</script>
@@ -357,8 +357,8 @@ function linkify( selector ) {
 
 		</div>
 
-		<script src="revealFiles/lib/js/head.min.js"></script>
-		<script src="revealFiles/js/reveal.min.js"></script>
+		<script src="../revealFiles/lib/js/head.min.js"></script>
+		<script src="../revealFiles/js/reveal.min.js"></script>
 
 		<script>
 
@@ -379,12 +379,12 @@ function linkify( selector ) {
 
 				// Optional libraries used to extend on reveal.js
 				dependencies: [
-					{ src: 'revealFiles/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: 'revealFiles/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'revealFiles/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'revealFiles/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: 'revealFiles/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-					{ src: 'revealFiles/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					{ src: '../revealFiles/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: '../revealFiles/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../revealFiles/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../revealFiles/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: '../revealFiles/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: '../revealFiles/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
 				]
 			});
 
