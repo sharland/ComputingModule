@@ -1,66 +1,66 @@
-#Title
+# Title
 
 Include a simple title.
 
-##Target year group or age
+## Target year group or age
 
 
 
-###Purpose of Module
+### Purpose of Module
 
 
 
-###Prior learning
+### Prior learning
 
 
 
-###Knowledge and Skills
+### Knowledge and Skills
 
 
 
-###Cross-Curricula links
+### Cross-Curricula links
 
 
 
-###Progression from this module
+### Progression from this module
 
 
 
-###Example work
+### Example work
 
 
 
-###Glossary
+### Glossary
 
 |Term		|Definition			|
 |-----------|-------------------|
 |Just add pipes| Does not have to look pretty|
 
-###Self-assessment questions
+### Self-assessment questions
 
 
 
-###Theory Questions
+### Theory Questions
 
 
 
-###Work-criteria check-list
+### Work-criteria check-list
 
 
 
-###Homework
+### Homework
 
 
 
-###DfE Computing Curriculum mapping
+### DfE Computing Curriculum mapping
 
 
 
-###CaS Progression Pathways mapping
+### CaS Progression Pathways mapping
 
 
 
-###Lessons
+### Lessons
 
 Add and link to lessons as appropriate
 
@@ -71,6 +71,6 @@ Add and link to lessons as appropriate
 - Lesson 5
 - Lesson 6
 
-###Resources
+### Resources
 
 

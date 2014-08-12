@@ -1,10 +1,10 @@
-#Lesson Template
+# Lesson Template
 
-##Lesson Title
+## Lesson Title
 
-##Lesson number *x* of *y*
+## Lesson number *x* of *y*
 
-##Lesson objective
+## Lesson objective
 
-##Lesson description
+## Lesson description
 
